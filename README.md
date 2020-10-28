@@ -1,1 +1,1 @@
-To access my personal portfolio, search: **victoriahong.github.io**
+To access my personal portfolio, search: **vkh12.github.io**
