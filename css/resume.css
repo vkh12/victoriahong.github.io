@@ -7,7 +7,7 @@
 body {
   font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   padding-top: 54px;
-  color: #3a3d3f;
+  color: #1e2020;
 }
 
 @media (min-width: 992px) {
@@ -19,9 +19,9 @@ body {
 
 h1 {
   text-transform: uppercase;
-  font-size: 5rem;
-  line-height: 4rem;
-  letter-spacing: 0.3rem;
+  font-size: 4rem;
+  line-height: 5rem;
+  letter-spacing: 0.2rem;
   font-weight: 600;
   color: #F34790;
   font-family: 'Oswald', sans-serif;
@@ -38,7 +38,7 @@ h6 {
 }
 
 h2 {
-  font-size: 2.8rem;
+  font-size: 2.5rem;
   color: #F34790;
   line-height: 0.5rem;
   letter-spacing: 0.1rem;
@@ -54,20 +54,20 @@ h3 {
 }
 
 h4 {
-  font-size: 1.8rem;
+  font-size: 1.7rem;
   color: #181616;
   line-height: 2rem;
 }
 
 p {
   font-size: 1rem;
-  font-weight: 300;
+  font-weight: 100;
   letter-spacing: 0.05rem;
 }
 
 p.lead {
   font-size: 1rem;
-  font-weight: 300;
+  font-weight: 100;
 }
 
 h5 {
@@ -80,8 +80,8 @@ h5 {
 
 .subheading {
   font-family: 'Roboto', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
-  font-weight: 300;
-  font-size: 1.2rem;
+  font-weight: 400;
+  font-size: 1.1rem;
   letter-spacing: 0.1rem;
   color: #494d50 ;
 }
@@ -182,9 +182,9 @@ h5 {
 }
 
 section.resume-section {
-  padding-top: 10rem !important;
-  padding-bottom: 10rem !important;
-  max-width: 80rem;
+  padding-top: 20rem !important;
+  padding-bottom: 20rem !important;
+  max-width: 90rem;
 }
 
 section.resume-section .resume-item .resume-date {
@@ -214,7 +214,7 @@ section.resume-section .resume-item .resume-date {
 .text-primary {
   /*color: #BD5D38 !important;*/
   color: #494d50 !important;
-  font-size: 1rem;
+  font-size: 1.1rem;
 }
 
 a {
