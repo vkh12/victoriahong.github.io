@@ -42,7 +42,7 @@ h2 {
   color: #ff9900;
   line-height: 1rem;
   letter-spacing: 0.1rem;
-  margin-bottom: 3rem;
+  margin-bottom: 1rem;
   font-weight: 600;
   text-transform: uppercase;
   font-family: 'Oswald', sans-serif;
@@ -92,7 +92,7 @@ h5 {
   height: 3.5rem;
   width: 3.5rem;
   background-color: #fca92cd2;
-  color: #fff !important;
+  color: #fff;
   border-radius: 100%;
   text-align: center;
   font-size: 1.5rem;
