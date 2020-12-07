@@ -1,6 +1,6 @@
 # My Personal Portfolio 
 
-I created this website to display and share all of my past and current projects on a platform in detail. 
+I created this website to display and share all of my past and current projects in detail on a singular platform. 
 
 You can access my website [here][1].
 
